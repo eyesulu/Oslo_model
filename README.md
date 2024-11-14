@@ -78,6 +78,8 @@ You can install these libraries using:
 
 ```bash
 pip install numpy matplotlib
+```
+
 
     
     
